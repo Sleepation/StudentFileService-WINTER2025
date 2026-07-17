@@ -1,5 +1,3 @@
-package FinalProject;
-
 public class CourseScore implements Comparable<CourseScore> {
     private String courseId;
     private String courseName;
